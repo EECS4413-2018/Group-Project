@@ -1,0 +1,5 @@
+ID,NAME,DESCRIPTION,PICTURE
+3,Meat,An assortment of meat cuts,org.apache.derby.client.am.ClientBlob@61e717c2,
+4,Cheese,A variety of soft and hard cheeses,org.apache.derby.client.am.ClientBlob@4e515669,
+5,Ice Cream,A variety of freshly made ice cream,org.apache.derby.client.am.ClientBlob@17d10166,
+6,Cereal,A collection of wholesome cereals,org.apache.derby.client.am.ClientBlob@1b9e1916,

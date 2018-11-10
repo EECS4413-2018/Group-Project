@@ -1,0 +1,100 @@
+NUMBER,NAME,PRICE,QTY,ONORDER,REORDER,CATID,SUPID,COSTPRICE,UNIT
+0905A044,Minced Rib Meat by VX,6.49,0,0,0,3,0,0.0,EA
+0905A112,T6 Sirloin Meat,6.01,0,0,0,3,0,0.0,EA
+0905A123,Fine Beef Meat by PQ,6.65,0,0,0,3,0,0.0,EA
+0905A127,N1 Breast Meat,5.859999999999999,0,0,0,3,0,0.0,EA
+0905A306,R3 Breast Meat,6.720000000000001,0,0,0,3,0,0.0,EA
+0905A343,Roast Breast Meat by GH,4.67,0,0,0,3,0,0.0,EA
+0905A363,K6 Veal Meat,6.42,0,0,0,3,0,0.0,EA
+0905A365,Y1 Loin Meat,3.87,0,0,0,3,0,0.0,EA
+0905A369,Thick Cut Fillet Meat by LE,3.98,0,0,0,3,0,0.0,EA
+0905A456,Crown Fillet Meat by TH,3.87,0,0,0,3,0,0.0,EA
+0905A471,Roast Fillet Meat by XI,5.53,0,0,0,3,0,0.0,EA
+0905A512,Top Cut Fillet Meat by KX,6.67,0,0,0,3,0,0.0,EA
+0905A525,M9 Veal Meat,4.4399999999999995,0,0,0,3,0,0.0,EA
+0905A567,V7 Veal Meat,3.85,0,0,0,3,0,0.0,EA
+0905A589,X3 Lamb Meat,6.4,0,0,0,3,0,0.0,EA
+0905A627,Z5 Beef Meat,4.14,0,0,0,3,0,0.0,EA
+0905A636,Minced Rib Meat by FG,4.91,0,0,0,3,0,0.0,EA
+0905A638,Side Breast Meat by IE,5.13,0,0,0,3,0,0.0,EA
+0905A708,J0 Chicken Meat,5.02,0,0,0,3,0,0.0,EA
+0905A771,M4 Chicken Meat,6.1,0,0,0,3,0,0.0,EA
+0905A811,Fine Cut Loin Meat by TL,3.86,0,0,0,3,0,0.0,EA
+0905A850,I7 Sirloin Meat,4.88,0,0,0,3,0,0.0,EA
+0905A900,Thick Cut Lamb Meat by XW,5.32,0,0,0,3,0,0.0,EA
+0905A901,I3 Veal Meat,3.77,0,0,0,3,0,0.0,EA
+0905A984,Minced Beef Meat by PI,4.49,0,0,0,3,0,0.0,EA
+1409S004,Fudge Ice Cream with Strawberry by AV,7.15,0,0,0,5,0,0.0,EA
+1409S039,M8 Peanut Ice Cream,4.5,0,0,0,5,0,0.0,EA
+1409S123,E8 Nuts Ice Cream,6.12,0,0,0,5,0,0.0,EA
+1409S250,G8 Praline Ice Cream,5.0600000000000005,0,0,0,5,0,0.0,EA
+1409S253,Brownie Ice Cream with Strawberry by SH,4.3,0,0,0,5,0,0.0,EA
+1409S381,Brownie Ice Cream with Praline by MG,7.39,0,0,0,5,0,0.0,EA
+1409S413,K5 Praline Ice Cream,6.4399999999999995,0,0,0,5,0,0.0,EA
+1409S451,Chocolate Ice Cream with Twirl by SE,4.29,0,0,0,5,0,0.0,EA
+1409S454,N4 Nuts Ice Cream,4.33,0,0,0,5,0,0.0,EA
+1409S671,Praline Ice Cream with Raspberry by XL,7.0,0,0,0,5,0,0.0,EA
+1409S690,V8 Brownie Ice Cream,6.97,0,0,0,5,0,0.0,EA
+1409S702,A4 Brownie Ice Cream,5.9,0,0,0,5,0,0.0,EA
+1409S730,Chocolate Ice Cream with Brownie by YO,4.55,0,0,0,5,0,0.0,EA
+1409S737,Y0 Nuts Ice Cream,6.58,0,0,0,5,0,0.0,EA
+1409S764,Fudge Ice Cream with Twirl by BL,6.55,0,0,0,5,0,0.0,EA
+1409S766,X7 Peanut Ice Cream,4.6,0,0,0,5,0,0.0,EA
+1409S811,Brownie Ice Cream with Twirl by BJ,3.3,0,0,0,5,0,0.0,EA
+1409S867,Vanilla Ice Cream with Praline by SZ,4.62,0,0,0,5,0,0.0,EA
+1409S889,D7 Chocolate Ice Cream,6.99,0,0,0,5,0,0.0,EA
+1409S898,Z6 Twirl Ice Cream,3.2,0,0,0,5,0,0.0,EA
+1409S918,Peanut Ice Cream with Twirl by UU,7.31,0,0,0,5,0,0.0,EA
+1409S928,N1 Chocolate Ice Cream,4.0600000000000005,0,0,0,5,0,0.0,EA
+1409S929,Nuts Ice Cream with Vanilla by RC,6.68,0,0,0,5,0,0.0,EA
+1409S974,Praline Ice Cream with Fudge by IN,6.32,0,0,0,5,0,0.0,EA
+2002H063,Semi-Cheddar Cheese by JC,4.26,0,0,0,4,0,0.0,EA
+2002H123,Provolone Cheese by RI,3.84,0,0,0,4,0,0.0,EA
+2002H136,Soft Monterey Cheese by PY,5.36,0,0,0,4,0,0.0,EA
+2002H226,Semi-Hard Monterey Cheese by MA,3.96,0,0,0,4,0,0.0,EA
+2002H230,Semi-Swiss Cheese by RI,5.43,0,0,0,4,0,0.0,EA
+2002H302,Edam Cheese by MW,5.01,0,0,0,4,0,0.0,EA
+2002H341,Semi-Colby Cheese by TX,6.29,0,0,0,4,0,0.0,EA
+2002H397,Semi-Soft Provolone Cheese by IU,5.88,0,0,0,4,0,0.0,EA
+2002H458,Provolone Cheese by GN,3.89,0,0,0,4,0,0.0,EA
+2002H486,Semi-Cheddar Cheese by BK,4.82,0,0,0,4,0,0.0,EA
+2002H608,Fruilano Cheese by CP,4.11,0,0,0,4,0,0.0,EA
+2002H618,Semi-Edam Cheese by IJ,5.36,0,0,0,4,0,0.0,EA
+2002H673,Semi-Swiss Cheese by UA,6.609999999999999,0,0,0,4,0,0.0,EA
+2002H712,Semi-Monterey Cheese by GK,5.43,0,0,0,4,0,0.0,EA
+2002H725,Semi-Colby Cheese by ED,4.72,0,0,0,4,0,0.0,EA
+2002H795,Semi-Fruilano Cheese by YF,4.82,0,0,0,4,0,0.0,EA
+2002H815,Gouda Cheese by YD,5.88,0,0,0,4,0,0.0,EA
+2002H827,Soft Edam Cheese by OJ,6.7,0,0,0,4,0,0.0,EA
+2002H838,Semi-Provolone Cheese by IT,4.41,0,0,0,4,0,0.0,EA
+2002H867,Hard Provolone Cheese by YL,5.5,0,0,0,4,0,0.0,EA
+2002H891,Gouda Cheese by PR,6.25,0,0,0,4,0,0.0,EA
+2002H893,Provolone Cheese by UB,6.43,0,0,0,4,0,0.0,EA
+2002H924,Cream Cheese by KX,6.01,0,0,0,4,0,0.0,EA
+2002H953,Provolone Cheese by NJ,6.529999999999999,0,0,0,4,0,0.0,EA
+2002H994,Hard Fruilano Cheese by MX,4.26,0,0,0,4,0,0.0,EA
+2910h019,L6 Fruits Cereal,3.33,0,0,0,6,0,0.0,EA
+2910h074,L5 Oat Cereal,4.92,0,0,0,6,0,0.0,EA
+2910h087,Wheat Fruits Cereal by FR,3.05,0,0,0,6,0,0.0,EA
+2910h123,C9 Multigrain Cereal,2.2,0,0,0,6,0,0.0,EA
+2910h129,D4 Almond Cereal,2.8899999999999997,0,0,0,6,0,0.0,EA
+2910h145,Fruits Nuts Cereal by ZB,5.21,0,0,0,6,0,0.0,EA
+2910h185,M3 Wheat Cereal,2.6799999999999997,0,0,0,6,0,0.0,EA
+2910h192,Z0 Chocolate Cereal,4.09,0,0,0,6,0,0.0,EA
+2910h244,G8 Honey Cereal,4.79,0,0,0,6,0,0.0,EA
+2910h259,Multigrain Multigrain Cereal by ZG,3.21,0,0,0,6,0,0.0,EA
+2910h269,Nuts Raisin Cereal by WA,4.55,0,0,0,6,0,0.0,EA
+2910h309,L0 Maple Cereal,3.25,0,0,0,6,0,0.0,EA
+2910h401,Z5 Honey Cereal,2.88,0,0,0,6,0,0.0,EA
+2910h429,E5 Raisin Cereal,2.9,0,0,0,6,0,0.0,EA
+2910h536,A2 Wheat Cereal,4.5600000000000005,0,0,0,6,0,0.0,EA
+2910h553,Oat Maple Cereal by PE,3.36,0,0,0,6,0,0.0,EA
+2910h616,Fruits Chocolate Cereal by FT,3.3,0,0,0,6,0,0.0,EA
+2910h630,Maple Maple Cereal by LE,3.9,0,0,0,6,0,0.0,EA
+2910h636,Wheat Raisin Cereal by ZN,5.46,0,0,0,6,0,0.0,EA
+2910h705,J9 Almond Cereal,3.92,0,0,0,6,0,0.0,EA
+2910h711,Almond Maple Cereal by RC,5.73,0,0,0,6,0,0.0,EA
+2910h712,Raisin Multigrain Cereal by GZ,2.8600000000000003,0,0,0,6,0,0.0,EA
+2910h714,E7 Honey Cereal,6.42,0,0,0,6,0,0.0,EA
+2910h734,K5 Raisin Cereal,1.42,0,0,0,6,0,0.0,EA
+2910h785,N4 Raisin Cereal,3.98,0,0,0,6,0,0.0,EA
